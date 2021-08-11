@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+##I am a data science enthusiast and business administration and electrical engineering student who loves leveraging impactful data-driven solutions for society
+
+- 🔭 I am currently working on [adoption prediction project (kaggle)](https://www.kaggle.com/c/petfinder-adoption-prediction/data) with [TechLabs](https://www.techlabs.org/)
+- 🌱 I’m currently learning geospatial data and web scraping
+- 👯 I’m preparing myself for [Codegreen AI Hackathon](https://www.codegreen.events/) in October 21
+- 📫 How to reach me: naufaldi.fir@gmail.com
+- ⚡ Fun fact: love to play basketball, currently have long hair :) 
+
 <!--
 **naufaldi-fir/naufaldi-fir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
