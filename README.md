@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am a data science enthusiast with background business administration and electrical engineering. I love leveraging impactful data-driven solutions for society
+## I am a data science enthusiast with background business administration and electrical engineering. I love leveraging impactful data-driven solutions for business and society 😄
 
 - 🔭 I am currently working on [adoption prediction project (kaggle)](https://www.kaggle.com/c/petfinder-adoption-prediction/data) with [TechLabs](https://www.techlabs.org/)
 - 🌱 I’m currently learning geospatial data and web scraping
